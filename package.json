@@ -1,7 +1,7 @@
 {
-  "name": "electron-react-typescript-webpack-boilerplate",
-  "version": "4.1.3",
-  "description": "Pre-configured boilerplate for Electron + React + TypeScript",
+  "name": "reference-tagger",
+  "version": "0.1.0",
+  "description": "App for managing and organizing reference images. Based off the concept of PurRef but incorporating features useful to developers.",
   "main": "./dist/main.bundle.js",
   "scripts": {
     "start": "electron ./dist/main.bundle.js",
@@ -21,7 +21,7 @@
   },
   "build": {
     "appId": "com.devtography.electron_boilerplate",
-    "productName": "Electron+React+TypeScript Boilerplate",
+    "productName": "Refereance Tagger",
     "directories": {
       "app": "./dist/",
       "output": "./out/"
@@ -45,9 +45,9 @@
       "oneClick": false,
       "allowToChangeInstallationDirectory": true
     },
-    "buildVersion": "1"
+    "buildVersion": "0.0.1"
   },
-  "author": "Wing Chau @Devtography",
+  "author": "Thomas Ray",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
@@ -91,10 +91,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Devtography/electron-react-typescript-webpack-boilerplate"
+    "url": "git+https://github.com/The3dVehicleguy/reference-tagger-app"
   },
   "bugs": {
-    "url": "https://github.com/Devtography/electron-react-typescript-webpack-boilerplate/issues"
+    "url": "https://github.com/The3dVehicleguy/reference-tagger-app/issues"
   },
-  "homepage": "https://github.com/Devtography/electron-react-typescript-webpack-boilerplate#readme"
+  "homepage": "https://github.com/The3dVehicleguy/reference-tagger-app#readme"
 }
