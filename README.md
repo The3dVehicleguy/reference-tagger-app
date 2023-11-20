@@ -19,10 +19,10 @@ Start the app in the `dev` environment:
 ```bash
 npm start
 ```
+
 The `dev` environment is hot reloaded.
 
 ## Build Status
-
 
 <div align="center">
 **Reference Tagger App**
@@ -32,16 +32,23 @@ The `dev` environment is hot reloaded.
 
 </div>
 <div align="center">
-**Electron React Boilerplate**
+**Electron React TypeScript Webpack Boilerplate**
 
-[![Build Status][github-actions-status]][github-actions-url]
-[![Github Tag][github-tag-image]][github-tag-url]
+![badge-ver] ![badge-node-ver] ![badge-license]
+
+[badge-ver]: https://img.shields.io/github/package-json/v/devtography/electron-react-typescript-webpack-boilerplate
+[badge-license]: https://img.shields.io/github/license/Devtography/electron-react-typescript-webpack-boilerplate
+[badge-node-ver]: https://img.shields.io/badge/node--lts-%3E%3D16-orange
+
 
 </div>
 
 ## License
 
-MIT © [Electron React Boilerplate](https://github.com/electron-react-boilerplate)
+Electron React TypeScript Webpack Boilerplate is open source software 
+[licensed as MIT](LICENSE).
+
+MIT © [Electron React TypeScript Webpack Boilerplate](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate/blob/develop/LICENSE)
 
 [github-actions-status]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/workflows/Test/badge.svg
 [github-actions-url]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/actions
